@@ -4,6 +4,7 @@
 
 $background_image: '{{site.background_image}}';
 
+@import 'breakpoint';
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
