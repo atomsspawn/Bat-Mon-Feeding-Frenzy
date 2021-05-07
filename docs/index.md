@@ -1,6 +1,6 @@
-## BatMon Feeding Frenzy
 
-If you have ever wanted to learn about bats without feeling like you were learning about bats, Bat-Mon Feeding Frenzy is the game for you.
+
+BatMon Feeding Frenzy is a mobile game developed the students and staff of Phoenix College (programmers Phillip Alondra Montero & Phillip Gonzales, and senior programmer Josh James). The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles such as columns of rocks, buildings, trees, and cacti without hitting them while consuming, insects, nector, or fruit while also dodging preditors like owls, cats, and snakes.
 
 
 
