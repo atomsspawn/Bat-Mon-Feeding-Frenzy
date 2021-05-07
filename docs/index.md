@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## BatMon Feeding Frenzy
 
-You can use the [editor on GitHub](https://github.com/atomsspawn/Bat-Mon-Feeding-Frenzy/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+If you have ever wanted to learn about bats without feeling like you were learning about bats, Bat-Mon Feeding Frenzy is the game for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
