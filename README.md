@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/atomsspawn/Bat-Mon-Feeding-Frenzy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+BatMon Feeding Frenzy is a mobile game developed the students and staff of Phoenix College (programmers Alondra “Luz” Montero & Phillip Gonzales, and senior programmer Josh James). The game is an educational side-scroller where the player controls a bat attempting to fly between obstacles such as columns of rocks, buildings, trees, and cacti without hitting them while consuming, insects, nector, or fruit while also dodging preditors like owls, cats, and snakes.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
