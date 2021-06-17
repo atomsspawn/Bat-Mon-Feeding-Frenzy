@@ -16,7 +16,7 @@ public class Bat : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
+        //DontDestroyOnLoad(this.gameObject);
 
         //Fly towards the right
         GetComponent<Rigidbody2D>().velocity = Vector2.right * speed;
